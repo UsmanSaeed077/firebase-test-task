@@ -1,0 +1,15 @@
+{
+    "createAccount": "Create account",
+    "emailAddress": "Email Address",
+    "emailPlaceHolder": "example@gmail.com",
+    "password": "Password",
+    "passwordPlaceHolder": "must be 8 characters",
+    "confirmPassword": "Confirm Password",
+    "repeatPassword": "repeat password",
+    "login": "Log in",
+    "signUp": "Sign up",
+    "alreadHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don’t have an account?",
+    "loginInfo": "You have logged in",
+    "logout": "Logout"
+}

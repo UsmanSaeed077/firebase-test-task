@@ -1,0 +1,21 @@
+{
+    "backgroundColor": "#FFFFFF",
+    "text": {
+        "primary": "#222222",
+        "secondary": "#707070",
+        "tertiary": "#ffffff"
+    },
+    "textInput": {
+        "primary": "#FFFFFF",
+        "secondary": "#222222",
+        "placeHolder": "#979797"
+    },
+    "button": {
+        "primary": "#222222",
+        "secondary": "#FFFFFF"
+    },
+    "border": {
+        "primary": "#D9D9D9",
+        "secondary": "#DCDCDC"
+    }
+}
